@@ -1,0 +1,57 @@
+.m{
+border: 10px solid white;
+width: 880px;
+background-color: white;
+margin: 10px auto;
+}
+.r{
+border:5px solid  #A8F0F0;
+text-align: right;
+background-color:  #A8F0F0 ;
+}
+.o
+{
+font-size: 14px;
+
+}
+.f{
+	border:5px solid #0489B1;
+	background-color: #A9F5F2;
+	float: left;
+	margin: 10px;
+	margin-bottom: 200px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+}
+.b{
+	border: 4px solid  #C2E9E9 ;
+	background-color:  #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	height: 208px;
+	overflow: hidden;
+
+	}
+.p{
+	border-bottom: 2px dashed #0489B1;
+	}
+body {
+	background-image: url(images/i.jpg);
+}
+.i{
+	float:right; 
+
+}
+.f:hover 
+{
+	background: yellow;
+}
+.b:hover
+{
+	background: yellow;
+}
+.r:hover
+{
+	background: yellow;
+}
